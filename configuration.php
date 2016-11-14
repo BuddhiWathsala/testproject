@@ -37,7 +37,7 @@ class JConfig {
 	public $smtpauth = '0';
 	public $smtpuser = '';
 	public $smtppass = '';
-	public $smtphost = 'localhost';
+	public $smtphost = 'us-cdbr-azure-central-a.cloudapp.net';
 	public $smtpsecure = 'none';
 	public $smtpport = '25';
 	public $caching = '0';
