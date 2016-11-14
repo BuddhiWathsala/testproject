@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'us-cdbr-azure-central-a.cloudapp.net';
 	public $user = 'b35316c61113ad';
 	public $password = 'f2253685';
-	public $db = 'shoppingcart';
+	public $db = 'acsm_3f135168f91aaee';
 	public $dbprefix = 'x2gxy_';
 	public $live_site = '';
 	public $secret = 'sP9fm2ICdFodFuq3';
